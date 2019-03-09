@@ -1,1 +1,1 @@
-# CSI3140-WWW-Structures
+# CSI3140-WWW Structures
